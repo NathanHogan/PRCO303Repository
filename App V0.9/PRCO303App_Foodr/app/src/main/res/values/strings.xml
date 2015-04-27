@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PRCO303App_Foodr</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_favourite_list">favouriteListActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_review">ReviewActivity</string>
+    <string name="title_activity_review_list">ReviewListActivity</string>
+    <string name="title_activity_user_setting_view">UserSettingViewActivity</string>
+    <string name="title_activity_user_map">UserMapActivity</string>
+</resources>
